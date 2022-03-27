@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uuthalu
 - 👀 I’m interested in building a solid coding foundation.
 - 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on nothing, just building knowledge
+- 💞️ I’m looking to collaborate on nothing, just building knowledge base.
 - 📫 How to reach me ...
 
 <!---
